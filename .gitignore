@@ -1,0 +1,23 @@
+﻿# Python junk
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor/OS noise
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data folders and generated outputs
+02_project/01_data/
+01_assignments/**/outputs/
+02_project/03_models/
+
+# Keep placeholders for empty (ignored) data dirs
+!02_project/01_data/raw/.gitkeep
+!02_project/01_data/processed/.gitkeep
