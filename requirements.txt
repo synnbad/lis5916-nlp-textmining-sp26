@@ -1,0 +1,21 @@
+﻿# Core
+jupyter
+ipykernel
+
+# Data / plotting
+numpy
+pandas
+matplotlib
+seaborn
+
+# NLP / ML
+nltk
+spacy
+scikit-learn
+
+# Transformers (BERT) - optional but common for HW2
+transformers
+datasets
+torch
+
+# Note: Orange/KNIME are GUI tools (not pip-installed via this file).
