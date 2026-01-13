@@ -1,3 +1,0 @@
-﻿# Grading Notes
-
-- (placeholder)

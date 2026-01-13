@@ -1,3 +1,0 @@
-﻿# Due Dates
-
-- (placeholder)

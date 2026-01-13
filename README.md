@@ -18,18 +18,4 @@ Coursework repo for assignments and the semester project.
 - Transformers (BERT)
 - Orange / KNIME
 
-## Setup
 
-Windows (PowerShell):
-- `python -m venv .venv`
-- `.\.venv\Scripts\Activate.ps1`
-- `python -m pip install -r requirements.txt`
-
-macOS/Linux (bash/zsh):
-- `python3 -m venv .venv`
-- `source .venv/bin/activate`
-- `python -m pip install -r requirements.txt`
-
-## Notebooks
-
-Notebooks can run in Jupyter, VS Code, or Google Colab depending on workload.
